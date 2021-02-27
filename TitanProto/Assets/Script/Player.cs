@@ -4,6 +4,10 @@ using UnityEngine;
 
 // ぎゃばのリーダーうんちってCLに書いて出したらしいでwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
+// 勝手にマージするなよ
+
+// おい
+
 public class Player : MonoBehaviour
 {
     //=======================================================
