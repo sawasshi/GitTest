@@ -8,6 +8,7 @@ using UnityEngine;
 
 // おい
 
+//にゃあ
 public class Player : MonoBehaviour
 {
     //=======================================================
