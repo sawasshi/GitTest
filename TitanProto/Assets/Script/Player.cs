@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// ぎゃばのリーダーうんちってCLに書いて出したらしいでwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
 public class Player : MonoBehaviour
 {
     //=======================================================
